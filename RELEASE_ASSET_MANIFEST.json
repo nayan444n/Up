@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-08-11T18:38:02.721Z",
+  "assetCount": 21,
+  "assets": [
+    {
+      "file": "src/assets/images/Home page.png",
+      "bytes": 2590823,
+      "sha256": "7d265257568efe60bfcb85a38abb531637758504c9a0af6d86d1728f9acef7e5"
+    },
+    {
+      "file": "src/assets/images/Shooting page.png",
+      "bytes": 2387413,
+      "sha256": "d37149213ef30e20f721b2e0864d4e28432922da2111b748b813982c588cf612"
+    },
+    {
+      "file": "src/assets/images/beetle_player_ship_1785861619870.jpg",
+      "bytes": 584579,
+      "sha256": "9e59e2d36ecc5a0d9b25b0d1666e4735180c63229f6a12b3bd11be4ccad67973"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_azure.png",
+      "bytes": 75065,
+      "sha256": "9a2c77a198fb346c6e1cefdf93f60102ce7b16fc711e4a3b4da8aaf69d390cfe"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_crimson.png",
+      "bytes": 73995,
+      "sha256": "2bc94a14c7d7f23e7d44278adea1f28d11f0ee175550f46184b8e589d7ca75a5"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_emerald.png",
+      "bytes": 92741,
+      "sha256": "c8c618d54642d14f586f96ed7434437f6a7aeb79b135c6d169d2b7325b0a41b7"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_golden.png",
+      "bytes": 73405,
+      "sha256": "37cc22d84299ff383944498bf7faa88ea43cc310ce669575cee79782b6b11428"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_ice.png",
+      "bytes": 84200,
+      "sha256": "8865f16ed3722707370d48144aed301635fa4e851c5f0d891067ae68901cab04"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_neon.png",
+      "bytes": 76991,
+      "sha256": "3f2e85983e100df7f5960555f5432791a195b1caa0a9b2afef01ad5d005623c4"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_prism.png",
+      "bytes": 100675,
+      "sha256": "8349bf86676771a2ef94ece24d93bc88282d6cd704533dd9c9241c283b32443e"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_purple.png",
+      "bytes": 73636,
+      "sha256": "f6b7b5bb6a5f43028c10b0254a15f55c9aad3dd142add6c41e4ca5a247bfc3e8"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_shadow.png",
+      "bytes": 73546,
+      "sha256": "dca6ec98e202bf394713779098694f40724acaaa0698e6af2e0cc77c3d389c3a"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_solar.png",
+      "bytes": 76443,
+      "sha256": "82ec706a4293ea6fe87dad4b724c0657a9cad3d3bc73626f4afbe2f31f50fc16"
+    },
+    {
+      "file": "src/assets/images/beetle_skin_void.png",
+      "bytes": 77655,
+      "sha256": "f39cb275ef3e5efe91efde8616478ab72f1778631c5bd7abf40ee8aa5c0a010d"
+    },
+    {
+      "file": "src/assets/images/leaf_creature_enemy_1785848098690.jpg",
+      "bytes": 490043,
+      "sha256": "4858abe701a618a4b687c1bcf30122a9636a3f281c6cbbc6af3c1a102f6d6359"
+    },
+    {
+      "file": "src/assets/images/neon_green_beetle_ship_1785863166332.jpg",
+      "bytes": 357872,
+      "sha256": "1e1bf1eb9fab8e8b9a966b7bebbf2d8e3af0dcaea4cc0b3131586dda265b54f1"
+    },
+    {
+      "file": "src/assets/images/orange_fox_enemy_1785848127913.jpg",
+      "bytes": 451977,
+      "sha256": "37f6b2efca4ab439527f8e704049938cfb3659afc7e81ab4f351fc9a67dd5284"
+    },
+    {
+      "file": "src/assets/images/vibrant_robot_beetle_1785862658408.jpg",
+      "bytes": 757012,
+      "sha256": "4f7a6a21633412dda2ef226cf4df93e10a7272213a32582c7a5a52247d5a0672"
+    },
+    {
+      "file": "src/assets/images/warrior_frog_enemy_1785848214735.jpg",
+      "bytes": 579304,
+      "sha256": "d9d48ff89b571c3224336b877385d8f9afdf795c321638767db3076da4dbb7dd"
+    },
+    {
+      "file": "src/assets/images/xyporastk_beetle_splash.png",
+      "bytes": 518444,
+      "sha256": "091c04dfd7ad4d8045a4bb687e915efef176bed74596c775ab7e79bfdc6e098d"
+    },
+    {
+      "file": "src/assets/images/xyporastk_splash_space_background.png",
+      "bytes": 1825056,
+      "sha256": "d97832d6f967c1840ed969fa6cd056f14aacf9797bf940f703363ccd6cad7201"
+    }
+  ],
+  "externalUrls": [
+    {
+      "file": "src/components/PlayStoreGuide.tsx",
+      "url": "https://www.pwabuilder.com"
+    }
+  ],
+  "unusedAssets": [],
+  "notes": [
+    "This is an automated engineering audit, not legal advice.",
+    "Every non-original asset must have a creator/license record before commercial distribution.",
+    "Localization/device compatibility audits are intentionally excluded from this release batch."
+  ]
+}
